@@ -1,0 +1,5 @@
+discount_band,total_profit,total_units,profit_per_unit,avg_discount_pct,pct_of_total_profit
+Low,6188857.71,261858.5,23.63,0.0238,35.02
+None,1736455.0,86163.5,20.15,0.0,9.83
+Medium,5734475.34,379698.5,15.1,0.0697,32.45
+High,4011235.49,398085.5,10.08,0.1251,22.7

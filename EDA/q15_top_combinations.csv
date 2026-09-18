@@ -1,0 +1,31 @@
+country,product,discount_band,sales,profit,margin,tier
+United States of America,Paseo,Low,3199430.36,596478.36,0.1864,High margin
+Germany,Velo,Low,2103251.5,486991.5,0.2315,High margin
+Mexico,Paseo,Medium,3312908.11,471383.11,0.1423,Mid margin
+Mexico,VTT,Low,1978856.34,460488.34,0.2327,High margin
+Canada,Paseo,High,2741974.67,414004.42,0.151,High margin
+Germany,Amarilla,Low,2013046.0,408196.0,0.2028,High margin
+France,Paseo,Low,2493695.79,403162.79,0.1617,High margin
+France,Velo,Medium,2280368.24,399767.24,0.1753,High margin
+Mexico,Paseo,High,3238792.29,383904.29,0.1185,Low margin
+Canada,Paseo,Low,2456023.27,382373.27,0.1557,High margin
+France,Montana,Medium,2469385.46,372390.71,0.1508,High margin
+France,Amarilla,Medium,1865246.51,336262.26,0.1803,High margin
+Germany,VTT,Low,1591909.4,327287.4,0.2056,High margin
+United States of America,VTT,High,3052297.72,300644.72,0.0985,Low margin
+Germany,Montana,Low,1947668.82,295938.82,0.1519,High margin
+Canada,Carretera,Low,1147437.29,283308.29,0.2469,High margin
+Canada,Paseo,Medium,1705097.05,276687.05,0.1623,High margin
+France,Amarilla,None,1000480.0,266490.0,0.2664,High margin
+France,VTT,None,1212420.0,255870.0,0.211,High margin
+United States of America,Montana,Low,1551472.77,253076.77,0.1631,High margin
+Mexico,Carretera,Low,1050043.5,248723.5,0.2369,High margin
+Mexico,Amarilla,Medium,1495507.55,241988.55,0.1618,High margin
+Germany,Paseo,Medium,1613763.14,238661.89,0.1479,Mid margin
+United States of America,Paseo,High,2002018.15,231943.65,0.1159,Low margin
+France,Paseo,Medium,1589689.16,231635.41,0.1457,Mid margin
+Germany,Paseo,None,886054.0,230013.0,0.2596,High margin
+Canada,Amarilla,Medium,1250724.93,226513.68,0.1811,High margin
+France,Paseo,High,1506131.11,226425.36,0.1503,High margin
+United States of America,Amarilla,Medium,1323894.38,226059.38,0.1708,High margin
+Canada,Amarilla,High,1444328.95,225748.2,0.1563,High margin

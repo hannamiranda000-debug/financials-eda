@@ -1,0 +1,2 @@
+orders,countries,products,segments,discount_bands,total_sales,total_cogs,total_profit,total_units,profit_margin,cogs_to_sales,profit_per_unit
+700,5,6,5,4,118726350.29,101832648.0,17671023.54,1125806.0,0.1488,0.8577,15.7

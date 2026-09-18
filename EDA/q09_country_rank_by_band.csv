@@ -1,0 +1,21 @@
+discount_band,country,profit,rank_in_band
+High,Canada,1063657.41,1
+High,United States of America,1014953.04,2
+High,Mexico,764099.94,3
+High,France,640400.24,4
+High,Germany,528124.86,5
+Low,Germany,1847355.08,1
+Low,United States of America,1147004.14,2
+Low,Canada,1140580.37,3
+Low,France,1061776.19,4
+Low,Mexico,992141.93,5
+Medium,France,1640573.11,1
+Medium,Mexico,1162999.24,2
+Medium,Canada,1105873.36,3
+Medium,United States of America,964605.0,4
+Medium,Germany,860424.63,5
+None,Germany,584980.5,1
+None,France,564005.0,2
+None,Canada,383606.5,3
+None,Mexico,133982.0,4
+None,United States of America,69881.0,5

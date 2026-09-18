@@ -1,0 +1,36 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 Profit   R-squared:                       0.065
+Model:                            OLS   Adj. R-squared:                  0.048
+Method:                 Least Squares   F-statistic:                     3.947
+Date:                Thu, 17 Sep 2026   Prob (F-statistic):           6.60e-06
+Time:                        03:35:32   Log-Likelihood:                -8375.1
+No. Observations:                 695   AIC:                         1.678e+04
+Df Residuals:                     682   BIC:                         1.684e+04
+Df Model:                          12                                         
+Covariance Type:            nonrobust                                         
+==========================================================================================================
+                                             coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------------------------
+Intercept                               4.142e+04   7654.373      5.412      0.000    2.64e+04    5.65e+04
+C(DiscountBand)[T.Low]                  8023.8474   6683.411      1.201      0.230   -5098.686    2.11e+04
+C(DiscountBand)[T.Medium]              -9462.3013   6368.180     -1.486      0.138    -2.2e+04    3041.292
+C(DiscountBand)[T.High]                 -1.86e+04   6373.351     -2.919      0.004   -3.11e+04   -6087.205
+C(Country)[T.France]                    1758.7763   5016.364      0.351      0.726   -8090.596    1.16e+04
+C(Country)[T.Germany]                   -103.3960   5017.945     -0.021      0.984   -9955.873    9749.081
+C(Country)[T.Mexico]                   -3078.1436   5030.472     -0.612      0.541    -1.3e+04    6798.929
+C(Country)[T.United States of America] -4274.1795   5003.766     -0.854      0.393   -1.41e+04    5550.456
+C(Product)[T.Carretera]                -1.314e+04   6151.078     -2.136      0.033   -2.52e+04   -1063.636
+C(Product)[T.Montana]                  -1.005e+04   6163.921     -1.631      0.103   -2.22e+04    2050.494
+C(Product)[T.Paseo]                    -8788.8099   5272.047     -1.667      0.096   -1.91e+04    1562.582
+C(Product)[T.VTT]                      -4498.5154   5915.810     -0.760      0.447   -1.61e+04    7116.873
+C(Product)[T.Velo]                     -1.025e+04   5908.875     -1.734      0.083   -2.18e+04    1353.890
+==============================================================================
+Omnibus:                      362.925   Durbin-Watson:                   1.989
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2031.245
+Skew:                           2.381   Prob(JB):                         0.00
+Kurtosis:                       9.889   Cond. No.                         10.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
